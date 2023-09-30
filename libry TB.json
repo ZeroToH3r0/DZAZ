@@ -238,6 +238,105 @@
       "link": "https://github.com/ZeroToH3r0/upload_10092023/raw/main/SESI_C/KitabHuwaAllah.pdf"
     },
     {
+      "id": 853,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Utsman Bin 'Affan \nKhalifah Yang Terzhalimi",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/UtsmanBinAffanKhalifah-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/UtsmanBinAffanKhalifah.pdf"
+    },
+    {
+      "id": 852,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Umar Bin Khattab",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/UmarBinKhattabKedaulatannya-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/UmarBinKhattabKedaulatannya.pdf"
+    },
+    {
+      "id": 851,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Tuntunan Mengurus Jenazah",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TuntunanMengurusJenazah-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TuntunanMengurusJenazah.pdf"
+    },
+    {
+      "id": 850,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Tuhfatul Ashfiya Pegon Jawa",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TuhfatulAshfiyaPegonJawa-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TuhfatulAshfiyaPegonJawa.pdf"
+    },
+    {
+      "id": 849,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Matan Safiinatun Najaah",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahSafiinatunNajaah-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahSafiinatunNajaah.pdf"
+    },
+    {
+      "id": 846,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Mabadiul Fiqhiyyah \nJuz 1",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah1-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah1.pdf"
+    },
+    {
+      "id": 846,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Mabadiul Fiqhiyyah \nJuz 2",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah2-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah2.pdf"
+    },
+    {
+      "id": 847,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Mabadiul Fiqhiyyah \nJuz 3",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah3-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah3.pdf"
+    },
+    {
+      "id": 848,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Mabadiul Fiqhiyyah \nJuz 4",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah4-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahMabadiulFiqhiyyah4.pdf"
+    },
+    {
+      "id": 845,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Kitab Safinatun Najah",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahKitabSafinatunNajah-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahKitabSafinatunNajah.pdf"
+    },
+    {
+      "id": 844,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Terjemah Arbain An Nawawiyah",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahArbainAnNawawiyah-1.webp",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/TB2023/raw/main/pdf29092023-s3/TerjemahArbainAnNawawiyah.pdf"
+    },
+    {
       "id": 843,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Syarah Hilyah Thalibil Ilmi",
