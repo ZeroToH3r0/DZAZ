@@ -99,16 +99,16 @@
 // // =========================================================
 // 4. SETTING ADS BACKUP (APPLOVIN) ====================================
       // TEST
-      // "l": "",
-      // "m": "XXXXX",
-      // "n": "XXXXX",
-      // "o": "XXXXX",
+      "l": "",
+      "m": "XXXXX",
+      "n": "XXXXX",
+      "o": "XXXXX",
       
       // ORIGINAL
-      "l": "APPLOVIN-M",
-      "m": "b430375e4cfe9f6d",
-      "n": "a2c2b770dd643073",
-      "o": "747edebddbba2647",
+      // "l": "APPLOVIN-M",
+      // "m": "b430375e4cfe9f6d",
+      // "n": "a2c2b770dd643073",
+      // "o": "747edebddbba2647",
 	  
 	  
       // "l": "APPLOVIN-M",
