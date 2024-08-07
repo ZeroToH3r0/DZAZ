@@ -72,7 +72,7 @@
 // 1. SETTING APP =============================================
       "a": "Tholabul 'ilmi | Library", 
       "b": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeGj7u4g0tzixz3deckohrrnO5Qt0otl8JAmfGtdiUTWzXIXzYlWch8BqUR9NdDKsL6B5jN1QLFquWjDsiDhRiQ1UJFIY6LtOP6TKxt6Du6G4YvLguU8gctDGvHqvuFdYcgMUY8A4GpIUqGxT52i02v_gkBHIGXtX9WN5XMZEbXpH_iYF6SpOPXGEkTJc/s320/splash.webp",
-      "c": "https://tholabul-ilmi2023.blogspot.com/2023/08/privacy-policy.html",
+      "c": "https://tholabul-ilmi2023.blogspot.com/privacy",
       "dd": "https://play.google.com/store/apps/details?id=com.tholabulilmi2023.app22082023002.automotive", 
       //"ee": "https://play.google.com/store/apps/developer?id=DSAS", 
       "d": "๐“ฒ  https://play.google.com/store/apps/details?id=com.tholabulilmi2023.app22082023002.automotive \n\n\n ููุงูุณูู‘ูุงูู…ู ุนููููู’ููู…ู’ ููุฑูุญู’ู…ูุฉู ุงูููู ููุจูุฑูููุงุชููู", 
@@ -92,9 +92,9 @@
       
       // ORIGINAL
       "g": "ADMOB",
-      "h": "ca-app-pub-7985099499357474/6732652353x",
-      "i": "ca-app-pub-7985099499357474/8396053975x",
-      "j": "ca-app-pub-7985099499357474/7877179229x",
+      "h": "ca-app-pub-7985099499357474/9030168707",
+      "i": "ca-app-pub-7985099499357474/9805599298",
+      "j": "ca-app-pub-7985099499357474/1416404585",
       "k": "ca-app-pub-7985099499357474/7627550173x",
 // // =========================================================
 // 4. SETTING ADS BACKUP (APPLOVIN) ====================================
@@ -119,12 +119,12 @@
 // 5. SETTING NATIVE ==========================================
       "p": 3,
       "q": 7,
-      "r": "1",
+      "r": "2",
       "s": "#05eccc68",
       "t": "1",
 // // =========================================================
 // 6. SETTING INTER ===========================================
-      "u": "10",
+      "u": "5",
 // // =========================================================
 // 7. SETTING BACKUP SDK ADS ==================================
       "w": "NFg6XwEey5IOyFnhBBm5F3GQsnGZ75v3agoK7fDfxXhVgtx5aouu4Tae4aksHKoEiE7tXKd9lNFZivGKDT63cK",
