@@ -203,6 +203,24 @@
   
   "Data": [
     {
+      "id": 597,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Dongeng Anak Dunia | Kumpulan Dongeng Anak Pembentuk Karakter dan Inspiratif",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Dongeng Anak Dunia - Syaff Banta.jpg",
+      "description": "",
+      "link": "https://drive.google.com/uc?export=download&id=1CsO-3ShhofumFJxjkv27w0-HnLu3qlrq"
+    },
+    {
+      "id": 596,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "15 Faedah Terkait Bulan Safar",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv 15_Faedah_Terkait_Bulan_Safar_Syaikh_Muhammad_Salih_Al_Munajjid.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/15_Faedah_Terkait_Bulan_Safar_Syaikh_Muhammad_Salih_Al_Munajjid.pdf"
+    },
+    {
       "id": 595,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Masa Depan Dalam Lipatan",
@@ -225,7 +243,7 @@
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Humor at Work Kerja | Gembira Usaha Berjaya",
       "type_file": "HTML",
-      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Humor_at_Work_Kerja_Gembira_Usaha_Berjaya_Institut_Humor_Indonesia.pdf",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Humor_at_Work_Kerja_Gembira_Usaha_Berjaya_Institut_Humor_Indonesia.jpg",
       "description": "",
       "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Humor_at_Work_Kerja_Gembira_Usaha_Berjaya_Institut_Humor_Indonesia.pdf"
     },
@@ -234,7 +252,7 @@
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Catatan Pendek Untuk Hidup yang Panjang",
       "type_file": "HTML",
-      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Catatan Pendek Untuk Hidup yang Panjang - Harun Tsaqif.pdf",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Catatan Pendek Untuk Hidup yang Panjang - Harun Tsaqif.jpg",
       "description": "",
       "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Catatan Pendek Untuk Hidup yang Panjang - Harun Tsaqif.pdf"
     },
@@ -243,7 +261,7 @@
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Karyawan juga Bisa Kaya",
       "type_file": "HTML",
-      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Karyawan juga Bisa Kaya - Ippho Santosa.pdf",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Karyawan juga Bisa Kaya - Ippho Santosa.jpg",
       "description": "",
       "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Karyawan juga Bisa Kaya - Ippho Santosa.pdf"
     },
@@ -252,7 +270,7 @@
       "name_category": "Tholabul 'ilmi | Library",
       "title": "The Journey Of Entrepreneurs",
       "type_file": "HTML",
-      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv The Journey Of Entrepreneurs - Klemens B. Raharjo.pdf",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv The Journey Of Entrepreneurs - Klemens B. Raharjo.jpg",
       "description": "",
       "link": "https://github.com/ZeroToH3r0/07082024/raw/main/The Journey Of Entrepreneurs - Klemens B. Raharjo.pdf"
     },
