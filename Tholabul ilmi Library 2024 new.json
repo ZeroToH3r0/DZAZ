@@ -148,6 +148,57 @@
       "ah": "30"
 // // =========================================================
     }
+  
+   "More": [
+    {
+      "id": 1,
+      "title": "Voice Ai - Mobile Assistant",
+      "image": "https://play-lh.googleusercontent.com/1ldN6DZysKQ8amVwuHlDJuTbSFqA6zrlUfchAXXCmaJQcZnfvuOYtTGMamB-sD0-i_E=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.voice.ai.mobile.assistant"
+      // "link": "https://"
+    },
+    {
+      "id": 2,
+      "title": "Sprofy: Songs Pro For You",
+      "image": "https://play-lh.googleusercontent.com/Jf7liF4cTJlzE-mKtwX23wD6q6B5yggY_ouI0yQkuKgQ5Eza0HMuthEXPFUAsPDvQT4=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.songspro.foryou"
+      // "link": "https://"
+    },
+    {
+      "id": 3,
+      "title": "Musify Pro: Songs & Lyric",
+      "image": "https://play-lh.googleusercontent.com/KkKWqK8RuHGhpV3Q_1Kn3_UB1-4kn-yw97X6-i9Zt3c-AoULSALD04CRF4ygzSmOxg=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.musify.pro"
+      // "link": "https://"
+    },
+    {
+      "id": 4,
+      "title": "Dangdut Mania",
+      "image": "https://play-lh.googleusercontent.com/JyNEHXSZ7fbsbQ8D7DZKq4nw4ezEwOrp5QriIMFHaGKif7V0u8NmmEv4T-ca0WZErRA8=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.dangdut.mania"
+      // "link": "https://"
+    },
+    {
+      "id": 5,
+      "title": "Syarah Syamail Nabi Muhammad",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cnxwqDljLPZ4GkGcldVog6JM11Q94BsY6qqFQmSe8CBDqEXI3BO9bZETI9Qf5yUHxQ_SMJc1Lbs0ZDfXcxlq-KUDteuygTjzzQm2NpK9z6LjRyolZ5TCzP0CQ24O1W_1PIvpltkQdLecJRLZnF6cMu0EVlOMDPsPZezyfWuyk0uFABuZvwRCNYqvg9EZ/s320/cv.webp",
+      "link": "https://download-the-my-app.blogspot.com/Syarah_Syamail_Nabi_Muhammad"
+      // "link": "https://"
+    },
+    {
+      "id": 6,
+      "title": "Tholabul ilmi | Version 1",
+      "image": "https://play-lh.googleusercontent.com/_SF4TzzDqEC4JlNsvyrYKKahGOo6uPK9y8t2vH7ZGGQ0EBxciudO4kA_ycpZC9UXKw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.tholabulilmi2023.app19082023001.automotive"
+      // "link": "https://"
+    },
+    {
+      "id": 7,
+      "title": "Tholabul ilmi | Library",
+      "image": "https://play-lh.googleusercontent.com/IDCFrhR0gXhv05Bt84GJCPZk8RGSKivUYffn2ypIe-P2AkjahMyk1BvZ03FpSYgGxcE=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.tholabulilmi2023.app22082023002.automotive"
+      // "link": "https://"
+    }
   ],
   "Categories": [
     {
