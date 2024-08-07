@@ -210,6 +210,33 @@
   
   "Data": [
     {
+      "id": 590,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "The Journey Of Entrepreneurs",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv The Journey Of Entrepreneurs - Klemens B. Raharjo.pdf",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/The Journey Of Entrepreneurs - Klemens B. Raharjo.pdf"
+    },
+    {
+      "id": 589,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Energi Murni Alam Semesta",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Energi Murni Alam Semesta - Innuri Sulamono.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Energi Murni Alam Semesta - Innuri Sulamono.pdf"
+    },
+    {
+      "id": 588,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Kitab Hipnoterapi",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Kitab Hipnoterapi - Abu Ziyad.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Kitab Hipnoterapi - Abu Ziyad.pdf"
+    },
+    {
       "id": 585,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Kamus Al Munawwir",
