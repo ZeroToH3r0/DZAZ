@@ -203,6 +203,78 @@
   
   "Data": [
     {
+      "id": 628,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Majelis Tidak Alim",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Majelis Tidak Alim - Soleh Solihun.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Majelis Tidak Alim - Soleh Solihun.pdf"
+    },
+    {
+      "id": 627,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Maafkan Tuhan Saya Pernah Pacaran | Bersedihlah, Menangislah & Menyesallah",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Maafkan Tuhan Saya Pernah Pacaran - Robi Afrizan Saputra.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Maafkan Tuhan Saya Pernah Pacaran - Robi Afrizan Saputra.pdf"
+    },
+    {
+      "id": 626,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Kecerdasan Rahasia Manusia Indonesia",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Kecerdasan Rahasia Manusia Indonesia - Erbe Sentanu.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Kecerdasan Rahasia Manusia Indonesia - Erbe Sentanu.pdf"
+    },
+    {
+      "id": 625,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Pendidikan Seks Untuk Anak dalam Islam",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Pendidikan Seks Untuk Anak dalam Islam - Yusuf Madani.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Pendidikan Seks Untuk Anak dalam Islam - Yusuf Madani.pdf"
+    },
+    {
+      "id": 624,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Scale Up Action | Langkah Cerdas Agar Bisnis Tetap Bertumbuh di Tengah Krisis",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Scale Up Action - Nur Agustinus.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Scale Up Action - Nur Agustinus.pdf"
+    },
+    {
+      "id": 623,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Startup Mindset | Fokus Menjadi Entrepreneur Sesuai Minat dan Passion",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Startup Mindset - Nur Agustinus.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Startup Mindset - Nur Agustinus.pdf"
+    },
+    {
+      "id": 622,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Motivasi Langit ilahi",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Motivasi langit ilahi - Hilal Asyraf.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Motivasi langit ilahi - Hilal Asyraf.pdf"
+    },
+    {
+      "id": 621,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "The Luck Attraction | Cara Logis Menarik Keberuntungan dalam Hidup",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv The Luck Attraction - Bayu Prasetyo.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/The Luck Attraction - Bayu Prasetyo.pdf"
+    },
+    {
       "id": 620,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Mendadak Produktif | Sistem Untuk Meningkatkan Produktivitas Diri",
