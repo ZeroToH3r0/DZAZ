@@ -203,6 +203,60 @@
   
   "Data": [
     {
+      "id": 620,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Mendadak Produktif | Sistem Untuk Meningkatkan Produktivitas Diri",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Mendadak Produktif - Fahmi Ahmad.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Mendadak Produktif - Fahmi Ahmad.pdf"
+    },
+    {
+      "id": 619,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Modul TPS UTBK",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Modul TPS UTBK - Tim Penulis.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Modul TPS UTBK - Tim Penulis.pdf"
+    },
+    {
+      "id": 618,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Buku Bestie SNBT",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Buku Bestie SNBT - Tim Maxima.jpg",
+      "description": "",
+      "link": "https://drive.google.com/uc?export=download&id=1xIuNYTxvaGw0jwh4OTByNGXUMlQw3KzX"
+    },
+    {
+      "id": 617,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Bank Soal Prediksi SNBT",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Ebook Gratis Bank Soal Prediksi SNBT - Digidik Indonesia.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Ebook Gratis Bank Soal Prediksi SNBT - Digidik Indonesia.pdf"
+    },
+    {
+      "id": 616,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Sarapan Pagi | Santap Kata Motivasi Di Pagi Hari",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Sarapan Pagi - Santap Kata Motivasi Di Pagi Hari - Frengky.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Sarapan Pagi - Santap Kata Motivasi Di Pagi Hari - Frengky.pdf"
+    },
+    {
+      "id": 615,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Rezeki Level 9 The Ultimate Fortune",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Rezeki Level 9 The Ultimate Fortune - Andre Raditya.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Rezeki Level 9 The Ultimate Fortune - Andre Raditya.pdf"
+    },
+    {
       "id": 614,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Kitab Sakti UTBK SNBT 2024 | Menuju Kampus Impian",
