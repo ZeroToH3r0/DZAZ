@@ -203,6 +203,60 @@
   
   "Data": [
     {
+      "id": 648,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "1001 Jalan Meraih Beasiswa",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv 1001 Jalan Meraih Beasiswa - Tim Inspira Workspace.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/1001 Jalan Meraih Beasiswa - Tim Inspira Workspace.pdf"
+    },
+    {
+      "id": 647,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Ahkam Sulthaniyah - Sistem Pemerintahan Khilafah Islam",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Ahkam Sulthaniyah - Imam Al Mawardi.jpg",
+      "description": "",
+      "link": "https://drive.google.com/uc?export=download&id=1UdwQM75rnT46IWk9kKF36FPPCTq-V_wj"
+    },
+    {
+      "id": 646,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Zulkarnain Agung - Antara Cyrus & Alexander, Jejak Cerita Dalam Alquran dan Riwayat Sejarah",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Zulkarnain Agung - Wisnu Tanggap Prabowo.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Zulkarnain Agung - Wisnu Tanggap Prabowo.pdf"
+    },
+    {
+      "id": 645,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Seni Hidup Bersahaja - 100 Praktik Harian Untuk Hidup Tenang dan Bahagia",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Seni Hidup Bersahaja - Shunmuo Masuni.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Seni Hidup Bersahaja - Shunmuo Masuni.pdf"
+    },
+    {
+      "id": 644,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Menghadapi Insecure Perihal Jodoh",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Menghadapi Insecure Perihal Jodoh - Arif Rahman Lubis.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Menghadapi Insecure Perihal Jodoh - Arif Rahman Lubis.pdf"
+    },
+    {
+      "id": 643,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Teruslah Bergerak Karena Anda Luar Biasa | Keep Moving Because You Are Awesome",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Teruslah_Bergerak_Karena_Anda_Luar_Biasa!_Fransiska_Lintang.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Teruslah_Bergerak_Karena_Anda_Luar_Biasa!_Fransiska_Lintang.pdf"
+    },
+    {
       "id": 642,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Berani Beda Juki Untuk Indonesia Satu | Sebuah Kisah Sukses Aktor Komik Nomor Satu di Indonesia",
