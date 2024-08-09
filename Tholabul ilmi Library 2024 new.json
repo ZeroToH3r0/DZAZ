@@ -203,6 +203,60 @@
   
   "Data": [
     {
+      "id": 634,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Belajar Facebook dan Instagram dari Dasar Hingga Mahir",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Belajar_Facebook_dan_Instagram_dari_Dasar_Hingga_Mahir_Muhammad.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Belajar_Facebook_dan_Instagram_dari_Dasar_Hingga_Mahir_Muhammad.pdf"
+    },
+    {
+      "id": 633,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Baca Kilat | Mencapai 100 Persen Tujuan Membaca dan Mencapai Pemahaman Tinggi Menguasai Buku Apa Pun yang Anda Inginkan",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Baca_Kilat!_Mencapai_100_Persen_Tujuan_Membaca_Agus_Setiawan.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Baca_Kilat!_Mencapai_100_Persen_Tujuan_Membaca_Agus_Setiawan.pdf"
+    },
+    {
+      "id": 632,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Hypno Writing | Cara menghinotis Calon Pelanggan Lewat Tulisan",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Hypno Writing - Darmawan Aji.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Hypno Writing - Darmawan Aji.pdf"
+    },
+    {
+      "id": 631,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Hypno Teaching | Rahasia Melipat Gandakan Daya Magnetisme Guru",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Hypno Teaching - Ridwan Sank Hipnovator.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Hypno Teaching - Ridwan Sank Hipnovator.pdf"
+    },
+    {
+      "id": 630,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Melek Keuangan | Perjalanan Menuju Kebebasan Keuangan",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Melek Keuangan - Peter Garlans Sina (2).jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Melek Keuangan - Peter Garlans Sina (2).pdf"
+    },
+    {
+      "id": 629,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "101 Tips untuk Ibu Baru",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv 101 Tips untuk Ibu Baru - Adhara Dhapana Mahardhika.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/101 Tips untuk Ibu Baru - Adhara Dhapana Mahardhika.pdf"
+    },
+    {
       "id": 628,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Majelis Tidak Alim",
