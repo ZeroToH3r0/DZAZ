@@ -203,6 +203,69 @@
   
   "Data": [
     {
+      "id": 641,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Gunung Api Di Dasar Lautan",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Majalah_National_Geographic_Indonesia_Gunung_Api_Di_Dasar_Lautan.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Kumpulan Cerita Guru Inspiratif - Tim Guru Inspiratif.pdf"
+    },
+    {
+      "id": 640,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Kumpulan Cerita Guru Inspiratif | Suka Duka Mendidik Generasi Bangsa",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Kumpulan Cerita Guru Inspiratif - Tim Guru Inspiratif.jpg",
+      "description": "",
+      "link": "https://drive.google.com/uc?export=download&id=1dx9vHcx9ytSbg2XoDCddVaLm27DhuxV1"
+    },
+    {
+      "id": 639,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Ilusi Demokrasi | Menyongsong Kembalinya Tata Pemerintahan Islam",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Ilusi Demokrasi - Zaim Saidi.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Ilusi Demokrasi - Zaim Saidi.pdf"
+    },
+    {
+      "id": 638,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "The Secret of Santet | Cegah dan Tanggal bebaskan Diri dan Keluarga dari Pengaruhnya",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv The Secret of Santet - A. Masruri.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/The Secret of Santet - A. Masruri.pdf"
+    },
+    {
+      "id": 637,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Gemar Rapi | Langkah Mudah Berbenah Rumah Agar Rapi Bukan Hanya Mimpi",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Gemar Rapi dan Berbenah - Khoirun Nikmah.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Gemar Rapi dan Berbenah - Khoirun Nikmah.pdf"
+    },
+    {
+      "id": 636,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "30 Dongeng Fabel Pilihan",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv 30 Dongeng Fabel Pilihan - Kak Muhammad Hendra.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/30 Dongeng Fabel Pilihan - Kak Muhammad Hendra.pdf"
+    },
+    {
+      "id": 635,
+      "name_category": "Tholabul 'ilmi | Library",
+      "title": "Suami Sejati (Edukasi Seksual 18 Plus!) | Sebuah Petunjuk Lengkap Untuk Menjadi Pria Idaman Bagi Istri Anda Dalam Hal Vitalitas Pria",
+      "type_file": "HTML",
+      "image": "https://github.com/ZeroToH3r0/07082024/raw/main/cv Suami_Sejati_Edukasi_Seksual_18_Plus!_Tim_Pasutri_Romantis.jpg",
+      "description": "",
+      "link": "https://github.com/ZeroToH3r0/07082024/raw/main/Suami_Sejati_Edukasi_Seksual_18_Plus!_Tim_Pasutri_Romantis.pdf"
+    },
+    {
       "id": 634,
       "name_category": "Tholabul 'ilmi | Library",
       "title": "Belajar Facebook dan Instagram dari Dasar Hingga Mahir",
